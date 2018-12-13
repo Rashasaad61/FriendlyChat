@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FriendlyChat</string>
+    <string name="sign_out">خروج</string>
+    <string name="send_button_label">ارسل</string>
+    <string name="write_messagr">اكتب رساله</string>
+</resources>
